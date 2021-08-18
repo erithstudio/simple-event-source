@@ -26,8 +26,8 @@ microservices/template/simpleeventsource/services/commands/AccountCommandService
  microservices.template.simpleeventsource.services.commands.AccountCommandService
 microservices/template/simpleeventsource/SimpleEventSourceApplication.java
  microservices.template.simpleeventsource.SimpleEventSourceApplication
-microservices/template/simpleeventsource/events/AccountActivatedEvent.java
- microservices.template.simpleeventsource.events.AccountActivatedEvent
+microservices/template/simpleeventsource/config/SwaggerConfig.java
+ microservices.template.simpleeventsource.config.SwaggerConfig
 microservices/template/simpleeventsource/aggregates/Status.java
  microservices.template.simpleeventsource.aggregates.Status
 microservices/template/simpleeventsource/commands/DebitMoneyCommand.java
@@ -42,5 +42,5 @@ microservices/template/simpleeventsource/commands/CreateAccountCommand.java
  microservices.template.simpleeventsource.commands.CreateAccountCommand
 microservices/template/simpleeventsource/services/commands/AccountCommandServiceImpl.java
  microservices.template.simpleeventsource.services.commands.AccountCommandServiceImpl
-microservices/template/simpleeventsource/config/SwaggerConfig.java
- microservices.template.simpleeventsource.config.SwaggerConfig
+microservices/template/simpleeventsource/events/AccountActivatedEvent.java
+ microservices.template.simpleeventsource.events.AccountActivatedEvent
